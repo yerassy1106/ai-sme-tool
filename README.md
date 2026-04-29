@@ -21,5 +21,5 @@ The project follows the **IT4IT Framework**, demonstrating the transition from a
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-link>
+   git clone <(https://github.com/yerassy1106/ai-sme-tool)>
    cd ai_project
