@@ -1,5 +1,7 @@
 # SME Sentiment & Response Architect 
 
+https://78vtbw5ltbikyj4w4udmb8.streamlit.app/
+
 ## 1. Project Objective
 This is a functional AI-powered tool designed for Small and Medium Enterprises (SMEs) in Almaty, Kazakhstan. It automates customer feedback loops by analyzing reviews and generating professional, culturally nuanced responses in both **Kazakh** and **Russian**.
 
